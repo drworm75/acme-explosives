@@ -1,0 +1,37 @@
+body {
+    background-image: url("./images/47159dfa93476422d24d73f3a24afb94.jpg");
+    background-repeat: no-repeat;
+}
+
+th {
+	text-align: center;
+	font-size: 5em;
+}
+
+.page-header {
+	background-color: white;
+	padding-bottom: 215.00px;
+	text-align: center;
+}
+
+.dropdown-menu {
+	left: 460px;
+}
+
+.dropdown li p {
+	color: black;
+}
+
+button {
+	padding-top: 10px;
+}
+
+.categories {
+	background-color: red;	
+	color: white;
+}
+
+.products {
+	background-color: blue;
+	color: white;
+}
